@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+  
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+  
+ 
+  
+  .search-container {
+    border-radius: 3px;
+    background-color:  #f0f0f4;
+    align-self: stretch;
+    display: flex;
+    margin-top: 25px;
+    width: 100%;
+
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  
+  .label {
+    color: #656464;
+    margin: auto 0;
+    
+  }
+  
+  .search-input {
+    border: none;
+    border-bottom: 1px solid #ccc;
+    padding: 5px;
+    width: 500px;
+    height: 40px;
+    
+    
+  }
+  
+  .search-button {
+    color: #fff;
+    letter-spacing: 1.68px;
+    
+    
+    border-radius: 3px;
+    background-color:#1c62cd;
+    align-self: stretch;
+    justify-content: center;
+    padding: 20px;
+    font: 700 14px SF Pro Display, sans-serif;
+  }
